@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.a {
+	font-size: 24px;
+	background-color: lightpink
+}
+
+#one {
+	font-size: 48px;
+	color: blue
+}
+
+.b {
+	font-size: 36px;
+}
+
+#two {
+	font-size: 22px;
+	font-weight: 800;
+	background-color: lightgreen
+}
+
