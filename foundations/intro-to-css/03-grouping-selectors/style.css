@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.a {
+	border-color: grey;
+	font-size: 48px
+}
+
+.b {
+	background-color: black;
+	color: white
+}
+
+.c {
+	background-color: yellow
+}
